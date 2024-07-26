@@ -13,17 +13,17 @@
 [linkedin]: https://www.linkedin.com/in/shubhash-singh-124254215/
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iamme00&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhash-singh&show_icons=true&theme=radical"/>
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Iamme00&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shubhash-singh&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
 </p>
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamme00&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhash-singh&theme=radical"/>
 </p>
 <br />
 
