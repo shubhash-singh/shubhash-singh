@@ -12,7 +12,7 @@
 
 [linkedin]: https://www.linkedin.com/in/shubhash-singh-124254215/
 
-## 🔥 GitHub Streak
+## 🔥Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhash-singh&theme=radical"/>
 </p>
