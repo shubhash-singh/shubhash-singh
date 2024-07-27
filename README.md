@@ -1,6 +1,6 @@
 # Hi there, I'm Shubhash Singh <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-## I'm a Computer Science and Engineering Student
+## I'm a Student of Computer Science and Engineering.
 
 - 🔭 I’m currently working on Android Application Development.
 - 🌱 I’m currently learning Data Structure and Algorithms.
@@ -11,7 +11,7 @@
 [<img align="left" alt="Shubhash | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/shubhash-singh-124254215/
-
+<br />
 ## 🔥Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhash-singh&theme=radical"/>
