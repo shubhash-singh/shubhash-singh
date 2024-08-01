@@ -16,7 +16,7 @@
 
 ## My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhash-singh&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhash-singh)
 <br/>
 ## 🔥Streak
 <p align="center">
