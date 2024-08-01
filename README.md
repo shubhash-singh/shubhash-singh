@@ -14,12 +14,14 @@
 <br />
 ## My GitHub Stats
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhash-singh&layout=compact&langs_count=10" alt="Top Languages" />
-</div>
+</p>
 
 <br/>
+
 ## 🔥Streak
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhash-singh&theme=radical"/>
 </p>
