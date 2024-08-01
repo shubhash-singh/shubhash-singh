@@ -12,6 +12,12 @@
 
 [linkedin]: https://www.linkedin.com/in/shubhash-singh-124254215/
 <br />
+# Hi there 👋
+
+## My GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhash-singh&layout=compact)
+<br/>
 ## 🔥Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhash-singh&theme=radical"/>
