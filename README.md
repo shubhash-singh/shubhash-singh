@@ -1,6 +1,6 @@
 # Hi there,  I'm Shubhash Singh <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-## I'm a Student of Computer Science and Engineering.
+## I'm a Student of Computer Science and Engineering
 
 - 🔭 I’m currently working on Android Application Development.
 - 🌱 I’m currently learning Data Structure and Algorithms.
@@ -12,10 +12,11 @@
 
 [linkedin]: https://www.linkedin.com/in/shubhash-singh-124254215/
 <br />
+
 ## My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhash-singh&layout=compact&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhash-singh&layout=compact&langs_count=5" alt="Top Languages" />
 </p>
 
 <br/>
@@ -23,14 +24,15 @@
 ## 🔥Streak
 
 <p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=shubhash-singh&theme=radical)
+  <img src = "https://streak-stats.demolab.com/?user=shubhash-singh&theme=dark" />
 
 </p>
 <br />
 
 ---
 
-### Languages and Tools 🛠 
+### Languages and Tools 🛠
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
