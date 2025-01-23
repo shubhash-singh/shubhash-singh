@@ -23,7 +23,8 @@
 ## 🔥Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhash-singh&theme=radical"/>
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=shubhash-singh&theme=radical)
+
 </p>
 <br />
 
