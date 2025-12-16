@@ -1,46 +1,57 @@
-# Hi there,  I'm Shubhash Singh <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi, I'm Shubhash Singh 👋  
 
-## I'm a Student of Computer Science and Engineering
-
-- 🔭 I’m currently working on Android Application Development.
-- 🌱 I’m currently learning Data Structure and Algorithms.
-- 📚 In my free time, I solve problems in LeetCode and HackerRank.
-
-## Contact with me 📝
-
-[<img align="left" alt="Shubhash Singh | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/shubhash-singh-124254215/
-<br />
-
-## My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhash-singh&layout=compact&langs_count=5" alt="Top Languages" />
-</p>
-
-<br/>
-
-## 🔥Streak
-
-<p align="center">
-  <img src = "https://streak-stats.demolab.com/?user=shubhash-singh&theme=dark" />
-
-</p>
-<br />
+🎓 **Computer Science & Engineering Student**  
+📱 **Android Application Developer**  
+🧠 **DSA Learner | Problem Solver**
 
 ---
 
-### Languages and Tools 🛠
+## 🚀 About Me
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+- 🔭 Currently working on **Android Application Development**
+- 🌱 Learning **Data Structures & Algorithms**
+- 📚 In my free time, I solve problems on **LeetCode** and **HackerRank**
+- 💡 Interested in building clean, efficient, and scalable software
 
-<br/>
+---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubhash%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubhash-singh-124254215/)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhash-singh&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhash-singh&layout=compact&langs_count=6&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shubhash-singh&theme=tokyonight" />
+</p>
+
+---
+
+## 🛠 Languages & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-346ac1?style=for-the-badge&logo=android-studio&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+
+---
+
+⭐ *Always learning, always building.*
