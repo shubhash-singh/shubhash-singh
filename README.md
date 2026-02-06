@@ -21,23 +21,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhash-singh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhash-singh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
-</p>
-
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhash-singh&border_radius=4.9&short_numbers=true"/>
-</p>
-
----
-
 ## 🛠 Languages & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
