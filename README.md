@@ -33,7 +33,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shubhash-singh&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhash-singh&border_radius=4.9&short_numbers=true"/>
 </p>
 
 ---
